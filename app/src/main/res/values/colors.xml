@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorKek">#405dff</color> <!--64,93,255-->
+    <color name="colorSarga">#fff533</color> <!--255,242,51-->
+    <color name="colorPiros">#ff4053</color> <!--255,64,83 -->
+    <color name="colorZold">#12b731</color> <!--18,183,49-->
+</resources>
